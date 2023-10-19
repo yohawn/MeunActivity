@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ListActivityView.qml</file>
+	<file>EfrontView.qml</file>
+	<file>ERearLeftView.qml</file>
+	<file>ERearRightView.qml</file>
+	<file>resource/back.png</file>	
+        <file>resource/bakery.png</file>
+	<file>resource/burger.png</file>
+        <file>resource/cafe.png</file>
+	<file>resource/ice.png</file>
+        <file>resource/list_rest.png</file>
+        <file>resource/opentime.png</file>
+        <file>resource/phone.png</file>
+        <file>resource/phone_100.png</file>
+        <file>resource/pin.png</file>
+        <file>resource/rest.png</file>
+  	
+    </qresource>
+</RCC>
